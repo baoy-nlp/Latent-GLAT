@@ -16,7 +16,7 @@ Requirements
 Dataset
 ---
 - IWSLT14 & WMT14: please follow the instruction of the [fairseq](https://github.com/pytorch/fairseq/tree/master/examples/translation) for obtaining the datasets.
-- Quora & DailyDialog: please get in touch with  [me](baoy@smail.nju.edu.cn) if you need the datasets.
+- [Quora](https://drive.google.com/file/d/1RJqVbN_aWaksJsdye91BCKOjL7toXiWD/view?usp=sharing) & [DailyDialog](https://drive.google.com/file/d/1xp7x7JXShcrReTRsoKSAiAEKhr2_p3C4/view?usp=sharing): we provide a link to download them if you need the datasets.
 
 > We implement our method based on the open-source <u>fairseq</u>. So, we strongly suggest you read the instruction of fairseq for more details. At least, you need to know how to convert the dataset from the "text" or other formats to the "bin" format with <u>fairseq-preprocess</u>.
 
